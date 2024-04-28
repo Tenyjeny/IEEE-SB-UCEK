@@ -5,7 +5,9 @@ Below are instructions on how to contribute to this project.
 ## Getting Started
 
 1. Clone the repository to your local machine:
+
   git clone <repository-url>
+  
   cd <repository-name>
 
 ## Creating a New Branch
@@ -20,11 +22,11 @@ To create a new branch for your feature or bug fix, follow these steps:
 
   git pull origin main
 
-3. Create a new branch for your page, feature or bug fix:
+4. Create a new branch for your page, feature or bug fix:
 
-  git checkout -b <branch-name>
+   git checkout -b <branch-name>
 
-4. Work on the created branch
+5. Work on the created branch
 
 ## Updating the Repository
 
