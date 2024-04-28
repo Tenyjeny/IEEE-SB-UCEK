@@ -28,6 +28,8 @@ To create a new branch for your feature or bug fix, follow these steps:
 
 5. Work on the created branch
 
+   You are free to add your own html and css files, bootstrap framework is also preferred.
+
 ## Updating the Repository
 
 To update the repository with your changes, follow these steps:
