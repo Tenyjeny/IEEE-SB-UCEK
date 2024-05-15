@@ -1,0 +1,14 @@
+.chair{
+    transform: translateY(-40px);
+}
+
+.card:hover{
+    scale: 1.025;
+    transition: 0.3s;
+}
+
+@media(max-width:768px){
+    .chair{
+        transform: translateY(0);
+    }
+}
